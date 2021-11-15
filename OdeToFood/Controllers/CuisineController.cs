@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
+using OdeToFood.Filters;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -6,21 +8,15 @@ using System.Threading.Tasks;
 
 namespace OdeToFood.Controllers
 {
-    public class CuisineController : Controller
-    {
-        [HttpPost]
-        public IActionResult Search(string name="Português")
-        {
+	[Log]
+	[Authorize]
+	public class CuisineController : Controller
+	{
+		public IActionResult Search(string name="Português")
+		{
+			throw new Exception("Something terrible happened!");
 
-            return Content("Esimene: "+name);
-        }
-
-       // [ActionName("otsi")]
-        [HttpGet]
-        public IActionResult Search()
-        {
-
-            return Content("Search!");
-        }
-    }
+			return Content("Esimene:"+ name );
+		}
+	}
 }
