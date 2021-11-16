@@ -437,3 +437,4 @@ C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\OdeToFood.dll
 C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\ref\OdeToFood.dll
 C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\OdeToFood.pdb
 C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\OdeToFood.genruntimeconfig.cache
+C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Views\Reviews\Index.cshtml.g.cs

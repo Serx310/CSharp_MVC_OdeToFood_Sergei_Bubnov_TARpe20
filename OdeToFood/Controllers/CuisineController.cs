@@ -9,7 +9,6 @@ using System.Threading.Tasks;
 namespace OdeToFood.Controllers
 {
 	[Log]
-	[Authorize]
 	public class CuisineController : Controller
 	{
 		public IActionResult Search(string name="Português")

@@ -32,8 +32,8 @@ namespace OdeToFood.Controllers
 		{
 			var model = new AboutModel()
 			{
-				Name = "Kristjan Kivikangur",
-				Location = "Tallinn"
+				Name = "Sergei Bubnov",
+				Location = "Tallinn, Estonia"
 			};
 			return View(model);
 		}
