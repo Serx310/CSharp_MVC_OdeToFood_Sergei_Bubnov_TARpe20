@@ -49,22 +49,21 @@ namespace OdeToFood.Controllers
         // GET: ReviewsController/Edit/5
         public ActionResult Edit(int id)
         {
-            return View();
+            var reviews = _reviews.Single(r => r.Id == id);
+            return View(reviews);
         }
 
         // POST: ReviewsController/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
+        public async Task<ActionResult> Edit(int id, IFormCollection collection)
         {
-            try
+            var reviews = _reviews.Single(r => r.Id == id);
+            if (await TryUpdateModelAsync(reviews))
             {
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction("Index");
             }
-            catch
-            {
-                return View();
-            }
+            return View(reviews);
         }
 
         // GET: ReviewsController/Delete/5
