@@ -439,3 +439,4 @@ C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\OdeToFood.pdb
 C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\OdeToFood.genruntimeconfig.cache
 C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Views\Reviews\Index.cshtml.g.cs
 C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Views\Reviews\Edit.cshtml.g.cs
+C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Views\Reviews\_Review.cshtml.g.cs
