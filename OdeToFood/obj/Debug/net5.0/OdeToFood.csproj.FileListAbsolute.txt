@@ -440,3 +440,5 @@ C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\OdeToFood.genru
 C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Views\Reviews\Index.cshtml.g.cs
 C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Views\Reviews\Edit.cshtml.g.cs
 C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Views\Reviews\_Review.cshtml.g.cs
+C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Views\Shared\Components\BestReview\_bestReview.cshtml.g.cs
+C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Views\Shared\_review.cshtml.g.cs
