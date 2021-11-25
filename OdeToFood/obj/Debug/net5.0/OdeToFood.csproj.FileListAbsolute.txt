@@ -404,7 +404,6 @@ C:\Users\serge\source\repos\OdeToFood\OdeToFood\bin\Debug\net5.0\runtimes\win-ar
 C:\Users\serge\source\repos\OdeToFood\OdeToFood\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\serge\source\repos\OdeToFood\OdeToFood\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\serge\source\repos\OdeToFood\OdeToFood\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\OdeToFood.csproj.AssemblyReference.cache
 C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\OdeToFood.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\OdeToFood.AssemblyInfoInputs.cache
 C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\OdeToFood.AssemblyInfo.cs
@@ -439,3 +438,4 @@ C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\OdeToFood.pdb
 C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\OdeToFood.genruntimeconfig.cache
 C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Views\Shared\Components\BestReview\_bestReview.cshtml.g.cs
 C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Views\Shared\_review.cshtml.g.cs
+C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\OdeToFood.csproj.AssemblyReference.cache

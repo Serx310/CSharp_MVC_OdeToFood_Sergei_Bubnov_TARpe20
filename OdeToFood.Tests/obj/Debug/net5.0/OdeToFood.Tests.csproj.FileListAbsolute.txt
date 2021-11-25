@@ -7,7 +7,6 @@ C:\Users\serge\source\repos\OdeToFood\OdeToFood.Tests\bin\Debug\net5.0\OdeToFood
 C:\Users\serge\source\repos\OdeToFood\OdeToFood.Tests\bin\Debug\net5.0\OdeToFood.runtimeconfig.dev.json
 C:\Users\serge\source\repos\OdeToFood\OdeToFood.Tests\bin\Debug\net5.0\appsettings.Development.json
 C:\Users\serge\source\repos\OdeToFood\OdeToFood.Tests\bin\Debug\net5.0\appsettings.json
-C:\Users\serge\source\repos\OdeToFood\OdeToFood.Tests\bin\Debug\net5.0\OdeToFood.StaticWebAssets.xml
 C:\Users\serge\source\repos\OdeToFood\OdeToFood.Tests\bin\Debug\net5.0\OdeToFood.exe
 C:\Users\serge\source\repos\OdeToFood\OdeToFood.Tests\bin\Debug\net5.0\testhost.exe
 C:\Users\serge\source\repos\OdeToFood\OdeToFood.Tests\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
