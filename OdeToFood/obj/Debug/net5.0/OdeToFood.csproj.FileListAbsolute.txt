@@ -439,3 +439,10 @@ C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\OdeToFood.genru
 C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Views\Shared\Components\BestReview\_bestReview.cshtml.g.cs
 C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Views\Shared\_review.cshtml.g.cs
 C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\OdeToFood.csproj.AssemblyReference.cache
+C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Views\Restaurants\Create.cshtml.g.cs
+C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Views\Restaurants\Delete.cshtml.g.cs
+C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Views\Restaurants\Details.cshtml.g.cs
+C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Views\Restaurants\Edit.cshtml.g.cs
+C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Views\Restaurants\Index.cshtml.g.cs
+C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Views\Reviews\Index.cshtml.g.cs
+C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Views\Reviews\_Reviews.cshtml.g.cs
