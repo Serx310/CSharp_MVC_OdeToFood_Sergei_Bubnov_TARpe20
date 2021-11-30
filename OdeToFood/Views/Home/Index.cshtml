@@ -1,14 +1,16 @@
-﻿@model IEnumerable<Restaurant>
+﻿@model IEnumerable<RestaurantListView>
 
 @{
     ViewData["Title"] = "Home Page";
 }
 
 
-@foreach (var item in Model)
-            {
-                <div>
-                    <h4>@item.Name</h4>
-                    <div>@item.City, @item.Country</div>
-                </div>
-            }
+    @foreach (var item in Model)
+    {
+        <div>
+            <h4>@item.Name</h4>
+            <div>@item.City, @item.Country</div>
+            <div>Number of reviews: @item.CountOfReviews</div>
+            <hr />
+        </div>
+    }

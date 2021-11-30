@@ -16,15 +16,20 @@ namespace OdeToFood.Data
                 {
                     Name = "Hesburger",
                     City = "Turku",
-                    Country = "Finland"
+                    Country = "Finland",
+                    Reviews = new List<RestaurantReview>() { new RestaurantReview() {
+                        Rating = 10,
+                        Body = "Lit"
+                    } }
                 });
 
                 context.Restaurants.Add(new Restaurant
                             {
                                 Name = "Suliko",
                                 City = "Tallinn",
-                                Country = "Estonia"
-                            });
+                                Country = "Estonia",
+                });
+                context.SaveChanges();
         }
         }
     }
