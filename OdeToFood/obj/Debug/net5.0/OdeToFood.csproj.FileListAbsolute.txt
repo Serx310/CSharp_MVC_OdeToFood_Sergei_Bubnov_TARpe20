@@ -446,3 +446,5 @@ C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Views\Res
 C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Views\Restaurants\Index.cshtml.g.cs
 C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Views\Reviews\Index.cshtml.g.cs
 C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Views\Reviews\_Reviews.cshtml.g.cs
+C:\Users\serge\source\repos\OdeToFood\OdeToFood\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\serge\source\repos\OdeToFood\OdeToFood\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
