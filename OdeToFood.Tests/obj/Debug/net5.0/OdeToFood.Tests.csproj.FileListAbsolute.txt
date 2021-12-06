@@ -316,7 +316,6 @@ C:\Users\serge\source\repos\OdeToFood\OdeToFood.Tests\bin\Debug\net5.0\Microsoft
 C:\Users\serge\source\repos\OdeToFood\OdeToFood.Tests\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
 C:\Users\serge\source\repos\OdeToFood\OdeToFood.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\serge\source\repos\OdeToFood\OdeToFood.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\serge\source\repos\OdeToFood\OdeToFood.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\serge\source\repos\OdeToFood\OdeToFood.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\serge\source\repos\OdeToFood\OdeToFood.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\serge\source\repos\OdeToFood\OdeToFood.Tests\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
@@ -501,3 +500,6 @@ C:\Users\serge\source\repos\OdeToFood\OdeToFood.Tests\obj\Debug\net5.0\OdeToFood
 C:\Users\serge\source\repos\OdeToFood\OdeToFood.Tests\obj\Debug\net5.0\ref\OdeToFood.Tests.dll
 C:\Users\serge\source\repos\OdeToFood\OdeToFood.Tests\obj\Debug\net5.0\OdeToFood.Tests.pdb
 C:\Users\serge\source\repos\OdeToFood\OdeToFood.Tests\obj\Debug\net5.0\OdeToFood.Tests.genruntimeconfig.cache
+C:\Users\serge\source\repos\OdeToFood\OdeToFood.Tests\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\serge\source\repos\OdeToFood\OdeToFood.Tests\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\serge\source\repos\OdeToFood\OdeToFood.Tests\bin\Debug\net5.0\OdeToFood.StaticWebAssets.xml
