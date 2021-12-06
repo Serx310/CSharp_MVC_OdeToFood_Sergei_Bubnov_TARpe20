@@ -11,7 +11,7 @@
 <div class="row">
     <div class="col-md-4">
         <form asp-action="Create">
-            <input asp-for="RestaurantID" asp- type="hidden" value="@Context.Request.Query["restaurantID"]" />
+            <input asp-for="RestaurantID" type="hidden" value="@Context.Request.Query["restaurantID"]" />
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
                 <label asp-for="Rating" class="control-label"></label>
@@ -38,3 +38,7 @@
 <div>
     <a asp-action="Index" asp-route-id="@Context.Request.Query["restaurantID"]">Back to List</a>
 </div>
+
+@section Scripts{
+    @{await Html.RenderPartialAsync("_ValidationScriptPartial");}
+}
