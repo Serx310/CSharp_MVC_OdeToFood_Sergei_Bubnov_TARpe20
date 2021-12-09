@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "hWiJGDoKgebAwSLpOzVnt8H7419DrcmJNFbbEfoZBWk8C9ZrgGCMQB8mLIdy+Lppv3AlvUpSTTY7KIEYxmCpuA==",
+  "dgSpecHash": "GPwHaeO1VGW3jYGJ+GxkG6lMUTKHa1cOEe5lxzCfR9QpYWDzK/kt1co3YiXfpjn1inND2l4GAlfaiv36FCqZ6Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\serge\\source\\repos\\OdeToFood\\OdeToFood.Tests\\OdeToFood.Tests.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\serge\\.nuget\\packages\\aspnetcore.unobtrusive.ajax\\1.1.3\\aspnetcore.unobtrusive.ajax.1.1.3.nupkg.sha512",
     "C:\\Users\\serge\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\serge\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\serge\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",

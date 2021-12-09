@@ -451,3 +451,6 @@ C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Views\Rev
 C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Views\Restaurants\Create.cshtml.g.cs
 C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Views\Reviews\Edit.cshtml.g.cs
 C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Views\Reviews\Delete.cshtml.g.cs
+C:\Users\serge\source\repos\OdeToFood\OdeToFood\bin\Debug\net5.0\AspNetCore.Unobtrusive.Ajax.dll
+C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Views\Home\_Resturant.cshtml.g.cs
+C:\Users\serge\source\repos\OdeToFood\OdeToFood\bin\Debug\net5.0\libman.json
