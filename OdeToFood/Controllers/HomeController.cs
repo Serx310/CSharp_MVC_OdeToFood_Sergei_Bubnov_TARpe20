@@ -9,6 +9,8 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
+using X.PagedList;
+
 
 namespace OdeToFood.Controllers
 {
@@ -35,7 +37,7 @@ namespace OdeToFood.Controllers
 			return Json(model);
         }
 
-		public IActionResult Index(string searchTerm = null)
+		public IActionResult Index(string searchTerm = null, int page = 1)
 		{
 			var model = _context.Restaurants
 				.OrderByDescending(
@@ -49,7 +51,7 @@ namespace OdeToFood.Controllers
 					City = r.City,
 					Country = r.Country,
 					CountOfReviews = r.Reviews.Count()
-				});
+				}).ToPagedList(page, 10);
             if (Request.IsAjaxRequest())
             {
 				return PartialView("_Resturant", model);

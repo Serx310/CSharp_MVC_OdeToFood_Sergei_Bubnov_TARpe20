@@ -26,8 +26,29 @@ using OdeToFood.Models;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 3 "C:\Users\serge\source\repos\OdeToFood\OdeToFood\Views\_ViewImports.cshtml"
+using X.PagedList;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 4 "C:\Users\serge\source\repos\OdeToFood\OdeToFood\Views\_ViewImports.cshtml"
+using X.PagedList.Mvc.Core;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 5 "C:\Users\serge\source\repos\OdeToFood\OdeToFood\Views\_ViewImports.cshtml"
+using X.PagedList.Web.Common;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"fd0bffe717bb2b505ee0e3d8eee5040aa4dc3b9a", @"/Views/Restaurants/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"4c22902c138d4ea6089f81a88ca2389276a7ed32", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"58aeb574de2f084cec158743b378842368929592", @"/Views/_ViewImports.cshtml")]
     public class Views_Restaurants_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<IEnumerable<OdeToFood.Models.Restaurant>>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("asp-action", "Create", global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -69,7 +90,7 @@ using OdeToFood.Models;
 #line hidden
 #nullable disable
             WriteLiteral("\r\n<h1>Index</h1>\r\n\r\n<p>\r\n    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fd0bffe717bb2b505ee0e3d8eee5040aa4dc3b9a4881", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fd0bffe717bb2b505ee0e3d8eee5040aa4dc3b9a5423", async() => {
                 WriteLiteral("Create New");
             }
             );
@@ -141,7 +162,7 @@ using OdeToFood.Models;
 #line hidden
 #nullable disable
             WriteLiteral("\r\n            </td>\r\n            <td>\r\n                ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fd0bffe717bb2b505ee0e3d8eee5040aa4dc3b9a8335", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fd0bffe717bb2b505ee0e3d8eee5040aa4dc3b9a8877", async() => {
                 WriteLiteral("Edit");
             }
             );
@@ -172,7 +193,7 @@ using OdeToFood.Models;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral(" |\r\n                ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fd0bffe717bb2b505ee0e3d8eee5040aa4dc3b9a10499", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fd0bffe717bb2b505ee0e3d8eee5040aa4dc3b9a11041", async() => {
                 WriteLiteral("Reviews");
             }
             );
@@ -205,7 +226,7 @@ using OdeToFood.Models;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral(" |\r\n                ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fd0bffe717bb2b505ee0e3d8eee5040aa4dc3b9a12899", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fd0bffe717bb2b505ee0e3d8eee5040aa4dc3b9a13441", async() => {
                 WriteLiteral("Delete");
             }
             );

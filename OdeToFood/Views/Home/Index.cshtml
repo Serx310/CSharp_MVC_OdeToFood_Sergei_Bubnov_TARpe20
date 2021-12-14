@@ -1,4 +1,4 @@
-﻿@model IEnumerable<RestaurantListView>
+﻿@model IPagedList<RestaurantListView>
 
 @{
     ViewData["Title"] = "Home Page";
@@ -10,15 +10,5 @@
     <input type="submit" value="Search By Name" />
 </form>
 
-@*@using (Html.AjaxBeginForm(new AjaxOptions
-    {
-        HttpMethod = "get",
-        InsertionMode = InsertionMode.Replace,
-        UpdateTargetId = "restaurantList"
-    }))
-    {
-        <input type="search" name="searchTerm" />
-        <input type="submit" value="Search By Name" />
-    }
-*@
+
 <partial name="_Resturant" model="Model" />

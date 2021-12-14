@@ -454,3 +454,8 @@ C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Views\Rev
 C:\Users\serge\source\repos\OdeToFood\OdeToFood\bin\Debug\net5.0\AspNetCore.Unobtrusive.Ajax.dll
 C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Views\Home\_Resturant.cshtml.g.cs
 C:\Users\serge\source\repos\OdeToFood\OdeToFood\bin\Debug\net5.0\libman.json
+C:\Users\serge\source\repos\OdeToFood\OdeToFood\bin\Debug\net5.0\JetBrains.Annotations.dll
+C:\Users\serge\source\repos\OdeToFood\OdeToFood\bin\Debug\net5.0\X.PagedList.dll
+C:\Users\serge\source\repos\OdeToFood\OdeToFood\bin\Debug\net5.0\X.PagedList.Mvc.dll
+C:\Users\serge\source\repos\OdeToFood\OdeToFood\bin\Debug\net5.0\X.PagedList.Mvc.Core.dll
+C:\Users\serge\source\repos\OdeToFood\OdeToFood\bin\Debug\net5.0\X.PagedList.Web.Common.dll
