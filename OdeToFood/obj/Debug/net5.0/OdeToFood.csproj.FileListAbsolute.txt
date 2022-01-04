@@ -459,3 +459,7 @@ C:\Users\serge\source\repos\OdeToFood\OdeToFood\bin\Debug\net5.0\X.PagedList.dll
 C:\Users\serge\source\repos\OdeToFood\OdeToFood\bin\Debug\net5.0\X.PagedList.Mvc.dll
 C:\Users\serge\source\repos\OdeToFood\OdeToFood\bin\Debug\net5.0\X.PagedList.Mvc.Core.dll
 C:\Users\serge\source\repos\OdeToFood\OdeToFood\bin\Debug\net5.0\X.PagedList.Web.Common.dll
+C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\serge\source\repos\OdeToFood\OdeToFood\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
